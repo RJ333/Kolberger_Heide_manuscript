@@ -1,0 +1,13 @@
+name: dada2_tnt
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-biocinstaller
+  - bioconductor-dada2
+  - bioconductor-phyloseq
+  - r-base
+  - r-gridExtra
+  - r-svglite
+  - r-dplyr
